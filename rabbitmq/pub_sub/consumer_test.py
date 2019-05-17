@@ -13,7 +13,7 @@ import pika,time
 '''
 # 指定远程rabbitmq的用户名密码
 username = 'admin'
-pwd = 'adminBolaa2019'
+pwd = 'admin'
 
 # 生成登录凭据
 user_pwd = pika.PlainCredentials(username, pwd)
