@@ -18,7 +18,7 @@ rabbitmq实现的rpc场景中
 '''
 # 指定远程rabbitmq的用户名密码
 username = 'admin'
-pwd = 'adminBolaa2019'
+pwd = 'admin'
 
 # 声明rpc队列
 fib_rpc_queue = 'rpc_queue'
